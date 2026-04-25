@@ -1,12 +1,4 @@
-## Jean-Baptiste Caillau github page
-
----
-
-### 📈 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jbcaillau&theme=github-compact" alt="Contribution Activity Graph" />
-</p>
+## Hi there 👋
 
 ---
 
@@ -22,6 +14,14 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jbcaillau&theme=default" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jbcaillau&theme=github-compact" alt="Contribution Activity Graph" />
 </p>
 
 ---
