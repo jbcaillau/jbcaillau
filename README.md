@@ -18,8 +18,16 @@
 
 ---
 
-### 📈 Contribution Activity Graph
+### 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jbcaillau&theme=github-compact" alt="Contribution Activity Graph" />
+  <img src="https://ghchart.rshah.org/jbcaillau" alt="Contribution Calendar" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jbcaillau&row=1&theme=flat" alt="GitHub Trophies" />
 </p>
