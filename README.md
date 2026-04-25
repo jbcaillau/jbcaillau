@@ -23,11 +23,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jbcaillau&theme=github-compact" alt="Contribution Activity Graph" />
 </p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jbcaillau&row=1&theme=flat" alt="GitHub Trophies" />
-</p>
